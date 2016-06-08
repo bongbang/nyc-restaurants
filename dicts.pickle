@@ -1,0 +1,409 @@
+(lp0
+(dp1
+I0
+S'No violations were recorded at the time of this inspection.'
+p2
+sI1
+S'Violations were cited in the following area(s).'
+p3
+sI2
+S'Establishment Closed by DOHMH.  Violations were cited in the following area(s) and those requiring immediate action were addressed.'
+p4
+sI3
+S'Establishment re-opened by DOHMH'
+p5
+sI4
+S'Establishment re-closed by DOHMH'
+p6
+sa(dp7
+S'04D'
+p8
+VFood worker does not wash hands thoroughly after using the toilet, coughing, sneezing, smoking, eating, preparing raw foods or otherwise contaminating hands.
+p9
+sS'04C'
+p10
+VFood worker does not use proper utensil to eliminate bare hand contact with food that will not receive adequate additional heat treatment.
+p11
+sS'10G'
+p12
+VFood service operation occurring in room used as living or sleeping quarters.
+p13
+sS'04A'
+p14
+VFood Protection Certificate not held by supervisor of food operations.
+p15
+sS'02E'
+p16
+VWhole frozen poultry or poultry breasts, other than a single portion, is being cooked frozen or partially thawed.
+p17
+sS'02D'
+p18
+VPrecooked potentially hazardous food from commercial food processing establishment that is supposed to be heated, but is not heated to 140° F within 2 hours.
+p19
+sS'02G'
+p20
+VCold food item held above 41° F (smoked fish and reduced oxygen packaged foods above 38 °F) except during necessary preparation.
+p21
+sS'02F'
+p22
+VMeat, fish or molluscan shellfish served raw or undercooked without prior notification to customer.
+p23
+sS'02A'
+p24
+VFood not cooked to required minimum temperature.
+p25
+sS'02C'
+p26
+VHot food item that has been cooked and refrigerated is being held for service without first being reheated to 1 65° F or above within 2 hours.
+p27
+sS'02B'
+p28
+VHot food item not held at or above 140° F.
+p29
+sS'02I'
+p30
+VFood prepared from ingredients at ambient temperature not cooled to 41° F or below within 4 hours.
+p31
+sS'02H'
+p32
+VFood not cooled by an approved method whereby the internal product temperature is reduced from 140° F to 70° F or less within 2 hours, and from 70° F to 41° F or less within 4 additional hours.
+p33
+sS'02J'
+p34
+VReduced oxygen packaged (ROP) foods not cooled by an approved method whereby the internal food temperature is reduced to 38° F within two hours of cooking and if necessary further cooled to a temperature of 34° F within six hours of reaching 38° F.
+p35
+sS'99B'
+p36
+VOther general violation.
+p37
+sS'09A'
+p38
+VCanned food product observed dented and not segregated from other consumable food items.
+p39
+sS'09B'
+p40
+VThawing procedures improper.
+p41
+sS'09C'
+p42
+VFood contact surface not properly maintained.
+p43
+sS'04O'
+p44
+VLive animals other than fish in tank or service animal present in facility's food and/or non-food areas.
+p45
+sS'04N'
+p46
+VFilth flies or food/refuse/sewage-associated (FRSA) flies present in facility's food and/or non-food areas. Filth flies include house flies, little house flies, blow flies, bottle flies and flesh flies. Food/refuse/sewage-associated flies include fruit flies, drain flies and Phorid flies.
+p47
+sS'10H'
+p48
+VProper sanitization not provided for utensil ware washing operation.
+p49
+sS'10I'
+p50
+VSingle service item reused, improperly stored, dispensed; not used when required.
+p51
+sS'04K'
+p52
+VEvidence of rats or live rats present in facility's food and/or non-food areas.
+p53
+sS'04J'
+p54
+VAppropriately scaled metal stem-type thermometer or thermocouple not provided or used to evaluate temperatures of potentially hazardous foods during cooking, cooling, reheating and holding.
+p55
+sS'04I'
+p56
+VUnprotected food re-served.
+p57
+sS'04H'
+p58
+VRaw, cooked or prepared food is adulterated, contaminated, cross-contaminated, or not discarded in accordance with HACCP plan.
+p59
+sS'04G'
+p60
+VUnprotected potentially hazardous food re-served.
+p61
+sS'10C'
+p62
+VLighting inadequate; permanent lighting not provided in food preparation areas, ware washing areas, and storage rooms.
+p63
+sS'04E'
+p64
+VToxic chemical improperly labeled, stored or used such that food contamination may occur.
+p65
+sS'10A'
+p66
+VToilet facility not maintained and provided with toilet paper, waste receptacle and self-closing door.
+p67
+sS'10F'
+p68
+VNon-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained and/or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit.
+p69
+sS'04B'
+p70
+VFood worker prepares food or handles utensil when ill with a disease transmissible by food, or have exposed infected cut or burn on hand.
+p71
+sS'10D'
+p72
+VMechanical or natural ventilation system not provided, improperly installed, in disrepair and/or fails to prevent excessive build-up of grease, heat, steam condensation vapors, odors, smoke, and fumes.
+p73
+sS'10E'
+p74
+VAccurate thermometer not provided in refrigerated or hot holding equipment.
+p75
+sS'03B'
+p76
+VShellfish not from approved source, improperly tagged/labeled; tags not retained for 90 days.
+p77
+sS'03C'
+p78
+VEggs found dirty/cracked; liquid, frozen or powdered eggs not pasteurized.
+p79
+sS'03A'
+p80
+VFood from unapproved or unknown source or home canned. Reduced oxygen packaged (ROP) fish not frozen before processing; or ROP foods prepared on premises transported to another site.
+p81
+sS'03F'
+p82
+VUnpasteurized milk or milk product present.
+p83
+sS'03G'
+p84
+VRaw food not properly washed prior to serving.
+p85
+sS'03D'
+p86
+VCanned food product observed swollen, leaking or rusted, and not segregated from other consumable food items .
+p87
+sS'03E'
+p88
+VPotable water supply inadequate. Water or ice not potable or from unapproved source.  Cross connection in potable water supply system observed.
+p89
+sS'16E'
+p90
+VCaloric content range (minimum to maximum) not posted on menus and or menu boards for each flavor, variety and size of each menu item that is offered for sale in different flavors, varieties and sizes.
+p91
+sS'22E'
+p92
+VROP processing equipment not approved by DOHMH.
+p93
+sS'16A'
+p94
+VA food containing artificial trans fat, with 0.5 grams or more of trans fat per serving, is being stored, distributed, held for service, used in preparation of a menu item, or served.
+p95
+sS'16B'
+p96
+VThe original nutritional fact labels and/or ingredient label for a cooking oil, shortening or margarine or food item sold in bulk, or acceptable manufacturer's documentation not maintained on site.
+p97
+sS'22G'
+p98
+Fnan
+sS'22F'
+p99
+Fnan
+sS'16F'
+p100
+VSpecific caloric content or range thereof not posted on menus, menu boards or food tags for each menu item offered as a combination meal with multiple options that are listed as single items.
+p101
+sS'22C'
+p102
+VBulb not shielded or shatterproof, in areas where there is extreme heat, temperature changes, or where accidental contact may occur.
+p103
+sS'22B'
+p104
+VToilet facility used by women does not have at least one covered garbage receptacle.
+p105
+sS'22A'
+p106
+VNuisance created or allowed to exist. Facility not free from unsafe, hazardous, offensive or annoying conditions.
+p107
+sS'16C'
+p108
+VCaloric content not posted on menus, menu boards or food tags, in a food service establishment that is 1 of 15 or more outlets operating the same type of business nationally under common ownership or control, or as a franchise or doing business under the same name, for each menu item that is served in portions, the size and content of which are standardized.
+p109
+sS'06A'
+p110
+VPersonal cleanliness inadequate. Outer garment soiled with possible contaminant.  Effective hair restraint not worn in an area where food is prepared.
+p111
+sS'06C'
+p112
+VFood not protected from potential source of contamination during storage, preparation, transportation, display or service.
+p113
+sS'06B'
+p114
+VTobacco use, eating, or drinking from open container in food preparation, food storage or dishwashing area observed.
+p115
+sS'06E'
+p116
+VSanitized equipment or utensil, including in-use food dispensing utensil, improperly used or stored.
+p117
+sS'06D'
+p118
+VFood contact surface not properly washed, rinsed and sanitized after each use and following any activity when contamination may have occurred.
+p119
+sS'06G'
+p120
+VHACCP plan not approved or approved HACCP plan not maintained on premises.
+p121
+sS'06F'
+p122
+VWiping cloths soiled or not stored in sanitizing solution.
+p123
+sS'06I'
+p124
+VFood not labeled in accordance with HACCP plan.
+p125
+sS'06H'
+p126
+VRecords and logs not maintained to demonstrate that HACCP plan has been properly implemented.
+p127
+sS'18B'
+p128
+VDocument issued by the Board of Health, Commissioner or Department unlawfully reproduced or altered.
+p129
+sS'18C'
+p130
+VNotice of the Department of Board of Health mutilated, obstructed, or removed.
+p131
+sS'18F'
+p132
+VPermit not conspicuously displayed.
+p133
+sS'18G'
+p134
+VManufacture of frozen dessert not authorized on Food Service Establishment permit.
+p135
+sS'18D'
+p136
+VFailure to comply with an Order of the Board of Health, Commissioner, or Department.
+p137
+sS'18I'
+p138
+VChoking first aid poster not posted. Alcohol and Pregnancy warning sign, inspection report sign; not posted. CPR sign not posted, equipment (resuscitation masks, adult & pediatric, latex gloves) not provided.
+p139
+sS'05H'
+p140
+VNo facilities available to wash, rinse and sanitize utensils and/or equipment.
+p141
+sS'05I'
+p142
+VRefrigeration used to implement HACCP plan not equipped with an electronic system that continuously monitors time and temperature.
+p143
+sS'05D'
+p144
+VHand washing facility not provided in or near food preparation area and toilet room. Hot and cold running water at adequate pressure to enable cleanliness of employees not provided at facility. Soap and an acceptable hand-drying device not provided.
+p145
+sS'05E'
+p146
+VToilet facility not provided for employees or for patrons when required.
+p147
+sS'05F'
+p148
+VInsufficient or no refrigerated or hot holding equipment to keep potentially hazardous foods at required temperatures.
+p149
+sS'05A'
+p150
+VSewage disposal system improper or unapproved.
+p151
+sS'05B'
+p152
+VHarmful, noxious gas or vapor detected. CO ~1 3 ppm.
+p153
+sS'05C'
+p154
+VFood contact surface improperly constructed or located. Unacceptable material used.
+p155
+sS'20A'
+p156
+VFood allergy information poster not conspicuously posted where food is being prepared or processed by food workers.
+p157
+sS'20B'
+p158
+VFood allergy information poster not posted in language understood by all food workers.
+p159
+sS'20E'
+p160
+VLetter Grade or Grade Pending card not conspicuously posted and visible to passersby.
+p161
+sS'20D'
+p162
+VChoking first aid' poster not posted. 'Alcohol and pregnancy' warning sign not posted. Resuscitation equipment: exhaled air resuscitation masks (adult & pediatric), latex gloves, sign not posted. Inspection report sign not posted.
+p163
+sS'20F'
+p164
+VCurrent letter grade card not posted.
+p165
+sS'08C'
+p166
+VPesticide use not in accordance with label or applicable laws. Prohibited chemical used/stored. Open bait station used.
+p167
+sS'08B'
+p168
+VCovered garbage receptacle not provided or inadequate, except that garbage receptacle may be uncovered during active use. Garbage storage area not properly constructed or maintained; grinder or compactor dirty.
+p169
+sS'08A'
+p170
+VFacility not vermin proof. Harborage or conditions conducive to attracting vermin to the premises and/or allowing vermin to exist.
+p171
+sS'10J'
+p172
+V'Wash hands' sign not posted at hand wash facility.
+p173
+sS'10K'
+p174
+VImmersion basket not provided, used or of incorrect size. Incorrect manual technique. Test kit and thermometer not provided or used. Improper drying practices.
+p175
+sS'04F'
+p176
+VFood, food preparation area, food storage area, area used by employees or patrons, contaminated by sewage or liquid waste.
+p177
+sS'04M'
+p178
+VLive roaches present in facility's food and/or non-food areas.
+p179
+sS'04L'
+p180
+VEvidence of mice or live mice present in facility's food and/or non-food areas.
+p181
+sS'15S'
+p182
+VFlavored tobacco products sold or offered for sale.
+p183
+sS'15T'
+p184
+VOriginal label for tobacco products sold or offered for sale.
+p185
+sS'10B'
+p186
+VPlumbing not properly installed or maintained; anti-siphonage or backflow prevention device not provided where required; equipment or floor not properly drained; sewage disposal system in disrepair or not functioning properly.
+p187
+sS'15E'
+p188
+VOut-of package sale of tobacco products observed.
+p189
+sS'07A'
+p190
+VDuties of an officer of the Department interfered with or obstructed.
+p191
+sS'15I'
+p192
+V'No Smoking' and/or 'Smoking Permitted' sign not conspicuously posted. Health warning not present on 'Smoking Permitted
+p193
+sS'15H'
+p194
+VSign prohibiting sale of tobacco products to minors not conspicuously posted.
+p195
+sS'15K'
+p196
+VOperator failed to make good faith effort to inform smokers of the Smoke-free Act prohibition of smoking.
+p197
+sS'15J'
+p198
+VAshtray present in smoke-free area.
+p199
+sS'15L'
+p200
+VSmoke free workplace smoking policy inadequate, not posted, not provided to employees.
+p201
+sa.

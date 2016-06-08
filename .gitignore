@@ -1,0 +1,9 @@
+DOHMH*
+*.swp
+*.pyc
+venv
+*~
+.DS_Store
+*.zip
+reference
+.ipynb_checkpoints
